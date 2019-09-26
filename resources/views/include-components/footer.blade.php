@@ -1,3 +1,3 @@
 <footer>
-<h1>QUESTA E' IL FooTER</h1>
+<h1>QUESTO E' IL FOOTER</h1>
 </footer>
